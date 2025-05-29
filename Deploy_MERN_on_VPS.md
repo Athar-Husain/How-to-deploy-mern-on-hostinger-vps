@@ -2,6 +2,7 @@
 ## Deploying MERN Stack Project on Hostinger VPS
 
 
+- Youtube Link (https://www.youtube.com/watch?v=o2J_jdKBLI4&ab_channel=GreatStack)
 
 
 - Preparing the VPS Environment
